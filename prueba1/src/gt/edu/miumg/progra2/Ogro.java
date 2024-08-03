@@ -25,4 +25,5 @@ public class Ogro extends Personaje implements Villano{
     public void destruir() {
 
     }
+
 }
